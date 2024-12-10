@@ -27,7 +27,7 @@ class Solution {
             if(prev.val!=slow.val){
                 return false;
             }
-            prev = prevv.next;
+            prev = prev.next;
             slow = slow.next;
         }
         return true;
