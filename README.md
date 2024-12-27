@@ -24,4 +24,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2048-build-array-from-permutation](https://github.com/poothesh/Leet-code/tree/master/2048-build-array-from-permutation) |
+## Math
+|  |
+| ------- |
+| [2556-convert-the-temperature](https://github.com/poothesh/Leet-code/tree/master/2556-convert-the-temperature) |
 <!---LeetCode Topics End-->
