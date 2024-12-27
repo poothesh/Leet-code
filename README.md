@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/poothesh/Leet-code/tree/master/0001-two-sum) |
+| [2048-build-array-from-permutation](https://github.com/poothesh/Leet-code/tree/master/2048-build-array-from-permutation) |
 ## Hash Table
 |  |
 | ------- |
@@ -19,4 +20,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0072-edit-distance](https://github.com/poothesh/Leet-code/tree/master/0072-edit-distance) |
+## Simulation
+|  |
+| ------- |
+| [2048-build-array-from-permutation](https://github.com/poothesh/Leet-code/tree/master/2048-build-array-from-permutation) |
 <!---LeetCode Topics End-->
