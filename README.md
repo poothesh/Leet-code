@@ -7,12 +7,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/poothesh/Leet-code/tree/master/0001-two-sum) |
+| [1635-number-of-good-pairs](https://github.com/poothesh/Leet-code/tree/master/1635-number-of-good-pairs) |
 | [2048-build-array-from-permutation](https://github.com/poothesh/Leet-code/tree/master/2048-build-array-from-permutation) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/poothesh/Leet-code/tree/master/2137-final-value-of-variable-after-performing-operations) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/poothesh/Leet-code/tree/master/0001-two-sum) |
+| [1635-number-of-good-pairs](https://github.com/poothesh/Leet-code/tree/master/1635-number-of-good-pairs) |
 ## String
 |  |
 | ------- |
@@ -32,10 +34,15 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 |  |
 | ------- |
+| [1635-number-of-good-pairs](https://github.com/poothesh/Leet-code/tree/master/1635-number-of-good-pairs) |
 | [2383-add-two-integers](https://github.com/poothesh/Leet-code/tree/master/2383-add-two-integers) |
 | [2556-convert-the-temperature](https://github.com/poothesh/Leet-code/tree/master/2556-convert-the-temperature) |
 ## Linked List
 |  |
 | ------- |
 | [2299-merge-nodes-in-between-zeros](https://github.com/poothesh/Leet-code/tree/master/2299-merge-nodes-in-between-zeros) |
+## Counting
+|  |
+| ------- |
+| [1635-number-of-good-pairs](https://github.com/poothesh/Leet-code/tree/master/1635-number-of-good-pairs) |
 <!---LeetCode Topics End-->
