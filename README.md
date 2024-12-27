@@ -11,4 +11,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/poothesh/Leet-code/tree/master/0001-two-sum) |
+## String
+|  |
+| ------- |
+| [0072-edit-distance](https://github.com/poothesh/Leet-code/tree/master/0072-edit-distance) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0072-edit-distance](https://github.com/poothesh/Leet-code/tree/master/0072-edit-distance) |
 <!---LeetCode Topics End-->
