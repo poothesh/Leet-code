@@ -16,11 +16,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/poothesh/Leet-code/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/poothesh/Leet-code/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1635-number-of-good-pairs](https://github.com/poothesh/Leet-code/tree/master/1635-number-of-good-pairs) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/poothesh/Leet-code/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/poothesh/Leet-code/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0072-edit-distance](https://github.com/poothesh/Leet-code/tree/master/0072-edit-distance) |
 | [1205-defanging-an-ip-address](https://github.com/poothesh/Leet-code/tree/master/1205-defanging-an-ip-address) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/poothesh/Leet-code/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -56,4 +58,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [1908-recyclable-and-low-fat-products](https://github.com/poothesh/Leet-code/tree/master/1908-recyclable-and-low-fat-products) |
 | [2495-number-of-unique-subjects-taught-by-each-teacher](https://github.com/poothesh/Leet-code/tree/master/2495-number-of-unique-subjects-taught-by-each-teacher) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/poothesh/Leet-code/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
