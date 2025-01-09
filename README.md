@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0001-two-sum](https://github.com/poothesh/Leet-code/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/poothesh/Leet-code/tree/master/0049-group-anagrams) |
+| [0064-minimum-path-sum](https://github.com/poothesh/Leet-code/tree/master/0064-minimum-path-sum) |
 | [1635-number-of-good-pairs](https://github.com/poothesh/Leet-code/tree/master/1635-number-of-good-pairs) |
 | [2048-build-array-from-permutation](https://github.com/poothesh/Leet-code/tree/master/2048-build-array-from-permutation) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/poothesh/Leet-code/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -32,6 +33,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 |  |
 | ------- |
+| [0064-minimum-path-sum](https://github.com/poothesh/Leet-code/tree/master/0064-minimum-path-sum) |
 | [0072-edit-distance](https://github.com/poothesh/Leet-code/tree/master/0072-edit-distance) |
 ## Simulation
 |  |
@@ -69,4 +71,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/poothesh/Leet-code/tree/master/0049-group-anagrams) |
+## Matrix
+|  |
+| ------- |
+| [0064-minimum-path-sum](https://github.com/poothesh/Leet-code/tree/master/0064-minimum-path-sum) |
 <!---LeetCode Topics End-->
