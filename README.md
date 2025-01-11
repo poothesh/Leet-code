@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0001-two-sum](https://github.com/poothesh/Leet-code/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/poothesh/Leet-code/tree/master/0049-group-anagrams) |
 | [0064-minimum-path-sum](https://github.com/poothesh/Leet-code/tree/master/0064-minimum-path-sum) |
+| [1528-kids-with-the-greatest-number-of-candies](https://github.com/poothesh/Leet-code/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1635-number-of-good-pairs](https://github.com/poothesh/Leet-code/tree/master/1635-number-of-good-pairs) |
 | [2048-build-array-from-permutation](https://github.com/poothesh/Leet-code/tree/master/2048-build-array-from-permutation) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/poothesh/Leet-code/tree/master/2137-final-value-of-variable-after-performing-operations) |
