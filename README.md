@@ -53,6 +53,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Linked List
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/poothesh/Leet-code/tree/master/0148-sort-list) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/poothesh/Leet-code/tree/master/2299-merge-nodes-in-between-zeros) |
 ## Counting
 |  |
@@ -71,8 +72,21 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/poothesh/Leet-code/tree/master/0049-group-anagrams) |
+| [0148-sort-list](https://github.com/poothesh/Leet-code/tree/master/0148-sort-list) |
 ## Matrix
 |  |
 | ------- |
 | [0064-minimum-path-sum](https://github.com/poothesh/Leet-code/tree/master/0064-minimum-path-sum) |
+## Two Pointers
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/poothesh/Leet-code/tree/master/0148-sort-list) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/poothesh/Leet-code/tree/master/0148-sort-list) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/poothesh/Leet-code/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
