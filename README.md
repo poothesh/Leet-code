@@ -46,6 +46,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/poothesh/Leet-code/tree/master/0002-add-two-numbers) |
 | [1635-number-of-good-pairs](https://github.com/poothesh/Leet-code/tree/master/1635-number-of-good-pairs) |
 | [2383-add-two-integers](https://github.com/poothesh/Leet-code/tree/master/2383-add-two-integers) |
 | [2556-convert-the-temperature](https://github.com/poothesh/Leet-code/tree/master/2556-convert-the-temperature) |
@@ -55,6 +56,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/poothesh/Leet-code/tree/master/0002-add-two-numbers) |
 | [0148-sort-list](https://github.com/poothesh/Leet-code/tree/master/0148-sort-list) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/poothesh/Leet-code/tree/master/2299-merge-nodes-in-between-zeros) |
 ## Counting
@@ -99,4 +101,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/poothesh/Leet-code/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/poothesh/Leet-code/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
