@@ -31,6 +31,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0072-edit-distance](https://github.com/poothesh/Leet-code/tree/master/0072-edit-distance) |
 | [1205-defanging-an-ip-address](https://github.com/poothesh/Leet-code/tree/master/1205-defanging-an-ip-address) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/poothesh/Leet-code/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/poothesh/Leet-code/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -90,4 +91,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/poothesh/Leet-code/tree/master/0148-sort-list) |
+## Stack
+|  |
+| ------- |
+| [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/poothesh/Leet-code/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
+## Greedy
+|  |
+| ------- |
+| [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/poothesh/Leet-code/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 <!---LeetCode Topics End-->
