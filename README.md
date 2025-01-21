@@ -13,6 +13,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1635-number-of-good-pairs](https://github.com/poothesh/Leet-code/tree/master/1635-number-of-good-pairs) |
 | [2048-build-array-from-permutation](https://github.com/poothesh/Leet-code/tree/master/2048-build-array-from-permutation) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/poothesh/Leet-code/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2145-grid-game](https://github.com/poothesh/Leet-code/tree/master/2145-grid-game) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/poothesh/Leet-code/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/poothesh/Leet-code/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Hash Table
@@ -81,6 +82,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0064-minimum-path-sum](https://github.com/poothesh/Leet-code/tree/master/0064-minimum-path-sum) |
+| [2145-grid-game](https://github.com/poothesh/Leet-code/tree/master/2145-grid-game) |
 ## Two Pointers
 |  |
 | ------- |
@@ -105,4 +107,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/poothesh/Leet-code/tree/master/0002-add-two-numbers) |
+## Prefix Sum
+|  |
+| ------- |
+| [2145-grid-game](https://github.com/poothesh/Leet-code/tree/master/2145-grid-game) |
 <!---LeetCode Topics End-->
