@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0064-minimum-path-sum](https://github.com/poothesh/Leet-code/tree/master/0064-minimum-path-sum) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/poothesh/Leet-code/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1635-number-of-good-pairs](https://github.com/poothesh/Leet-code/tree/master/1635-number-of-good-pairs) |
+| [1876-map-of-highest-peak](https://github.com/poothesh/Leet-code/tree/master/1876-map-of-highest-peak) |
 | [2048-build-array-from-permutation](https://github.com/poothesh/Leet-code/tree/master/2048-build-array-from-permutation) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/poothesh/Leet-code/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2145-grid-game](https://github.com/poothesh/Leet-code/tree/master/2145-grid-game) |
@@ -82,6 +83,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0064-minimum-path-sum](https://github.com/poothesh/Leet-code/tree/master/0064-minimum-path-sum) |
+| [1876-map-of-highest-peak](https://github.com/poothesh/Leet-code/tree/master/1876-map-of-highest-peak) |
 | [2145-grid-game](https://github.com/poothesh/Leet-code/tree/master/2145-grid-game) |
 ## Two Pointers
 |  |
@@ -111,4 +113,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2145-grid-game](https://github.com/poothesh/Leet-code/tree/master/2145-grid-game) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1876-map-of-highest-peak](https://github.com/poothesh/Leet-code/tree/master/1876-map-of-highest-peak) |
 <!---LeetCode Topics End-->
